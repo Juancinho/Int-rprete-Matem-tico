@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "tablasimbolos.h": "c",
+        "analizadorlexico.h": "c",
+        "definiciones.h": "c",
+        "stdlib.h": "c",
+        "sistemaentrada.h": "c",
+        "stdio.h": "c",
+        "analizadorsintactico.h": "c",
+        "analizadorlex.h": "c"
+    }
+}
